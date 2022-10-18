@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PeterBFoo
+- 👀 I’m interested in Python and backend stuff
+- 🌱 I’m currently learning Machine Learning with this [course](https://www.udemy.com/course/machinelearning-es/)
+- 💞️ I’m would like to collaborate on any open source project to learn even more
+- 📫 You can reach me in my [Linkedin](https://es.linkedin.com/in/pere-antoni-borr%C3%A0s-exp%C3%B3sito-8880a7183?trk=public_profile_samename-profile)
